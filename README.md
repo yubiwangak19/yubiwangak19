@@ -11,13 +11,13 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yubiwangak19&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yubiwangak19?label=Followers&style=for-the-badge&color=00D9FF" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/yubiwangak19?label=Stars&style=for-the-badge&color=00D9FF" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=USERNAME_ANDA&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/USERNAME_ANDA?label=Followers&style=for-the-badge&color=00D9FF" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/USERNAME_ANDA?label=Stars&style=for-the-badge&color=00D9FF" alt="GitHub Stars" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yubiwangak19&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_ANDA&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -61,6 +61,11 @@ const yubi = {
 </td>
 </tr>
 </table>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME_ANDA&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="Coding Time" />
+  <br><em>⚠️ WakaTime stats akan muncul setelah Anda setup WakaTime account</em>
+</div>
 
 ---
 
@@ -117,27 +122,27 @@ const yubi = {
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yubiwangak19&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="GitHub Stats" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubiwangak19&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yubiwangak19&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_ANDA&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yubiwangak19&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_ANDA&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yubiwangak19&theme=radical" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME_ANDA&theme=radical" alt="Profile Summary" />
 </div>
 
 ---
@@ -145,7 +150,7 @@ const yubi = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yubiwangak19&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yubiwangak19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -180,8 +185,8 @@ graph LR
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yubiwangak19&repo=awesome-project&theme=radical)](https://github.com/yubiwangak19/awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yubiwangak19&repo=cool-webapp&theme=radical)](https://github.com/yubiwangak19/cool-webapp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yubiwangak19&repo=awesome-project&theme=tokyonight)](https://github.com/yubiwangak19/awesome-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yubiwangak19&repo=cool-webapp&theme=tokyonight)](https://github.com/yubiwangak19/cool-webapp)
 
 </div>
 
@@ -190,7 +195,15 @@ graph LR
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yubiwangak19/yubiwangak19/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/USERNAME_ANDA/USERNAME_ANDA/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <br><em>⚠️ Snake animation akan muncul setelah GitHub Actions dijalankan</em>
+</div>
+
+## ⏰ Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME_ANDA&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="WakaTime Stats" />
+  <br><em>📊 Install WakaTime extension di VS Code untuk tracking otomatis</em>
 </div>
 
 ---
