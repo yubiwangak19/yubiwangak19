@@ -63,7 +63,7 @@ const yubi = {
 </table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yubiwangak19&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="Coding Time" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@yubiwangak19&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="Coding Time" />
   <br><em>⚠️ WakaTime stats akan muncul setelah Anda setup WakaTime account</em>
 </div>
 
