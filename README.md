@@ -62,10 +62,6 @@ const yubi = {
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yubiwangak19&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="Coding Time" />
-</div>
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -149,7 +145,7 @@ const yubi = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yubiwangak19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yubiwangak19&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -184,17 +180,9 @@ graph LR
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yubiwangak19&repo=awesome-project&theme=tokyonight)](https://github.com/yubiwangak19/awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yubiwangak19&repo=cool-webapp&theme=tokyonight)](https://github.com/yubiwangak19/cool-webapp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yubiwangak19&repo=awesome-project&theme=radical)](https://github.com/yubiwangak19/awesome-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yubiwangak19&repo=cool-webapp&theme=radical)](https://github.com/yubiwangak19/cool-webapp)
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yubiwangak19&theme=tokyonight" alt="WakaTime Stats" />
 </div>
 
 ---
