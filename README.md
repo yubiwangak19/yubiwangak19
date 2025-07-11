@@ -202,7 +202,7 @@ graph LR
 ## ⏰ Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yubiwangak19&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@yubiwangak19&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="WakaTime Stats" />
   <br><em>📊 Install WakaTime extension di VS Code untuk tracking otomatis</em>
 </div>
 
