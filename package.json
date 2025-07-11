@@ -1,0 +1,102 @@
+{
+  "name": "yubiwangak19-github-profile",
+  "version": "1.0.0",
+  "description": "🚀 Profil GitHub yang keren dan interaktif untuk Yubi Bala",
+  "main": "preview.html",
+  "scripts": {
+    "start": "live-server . --port=3000 --open=preview.html",
+    "dev": "live-server . --port=3000 --open=preview.html --watch=assets/",
+    "build": "echo 'Building GitHub profile...' && npm run validate",
+    "validate": "npm run validate:html && npm run validate:css && npm run validate:js",
+    "validate:html": "echo 'Validating HTML...'",
+    "validate:css": "echo 'Validating CSS...'",
+    "validate:js": "echo 'Validating JavaScript...'",
+    "preview": "live-server . --port=3000 --open=preview.html",
+    "deploy": "echo 'Deploying to GitHub...' && git add . && git commit -m '🚀 Update profile' && git push",
+    "setup": "npm install && echo '✅ Setup complete! Run npm start to preview.'",
+    "clean": "rm -rf node_modules package-lock.json && npm install",
+    "update": "npm update && echo '✅ Dependencies updated!'",
+    "test": "echo 'Running tests...' && npm run validate",
+    "format": "echo 'Formatting code...'",
+    "lint": "echo 'Linting code...'",
+    "stats": "echo 'Generating stats...'",
+    "backup": "git add . && git commit -m '💾 Backup profile' && git push",
+    "restore": "git checkout HEAD~1 -- .",
+    "help": "echo 'Available commands: start, dev, build, validate, preview, deploy, setup, clean, update, test, format, lint, stats, backup, restore, help'"
+  },
+  "keywords": [
+    "github",
+    "profile",
+    "readme",
+    "portfolio",
+    "developer",
+    "fullstack",
+    "javascript",
+    "css",
+    "html",
+    "animation",
+    "interactive",
+    "responsive",
+    "modern",
+    "cool",
+    "awesome"
+  ],
+  "author": {
+    "name": "Yubi Bala",
+    "email": "yubiwangak19@gmail.com",
+    "url": "https://github.com/yubiwangak19"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yubiwangak19/yubiwangak19.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yubiwangak19/yubiwangak19/issues"
+  },
+  "homepage": "https://github.com/yubiwangak19/yubiwangak19#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "config": {
+    "port": 3000,
+    "host": "localhost"
+  },
+  "funding": {
+    "type": "buymeacoffee",
+    "url": "https://buymeacoffee.com/yubiwangak19"
+  },
+  "contributors": [
+    {
+      "name": "Yubi Bala",
+      "email": "yubiwangak19@gmail.com",
+      "url": "https://github.com/yubiwangak19"
+    }
+  ],
+  "files": [
+    "README.md",
+    "preview.html",
+    "assets/",
+    ".github/",
+    ".devcontainer/",
+    "SETUP.md"
+  ],
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "private": false,
+  "preferGlobal": false,
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}

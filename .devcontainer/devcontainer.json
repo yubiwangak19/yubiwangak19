@@ -1,0 +1,35 @@
+{
+  "name": "GitHub Profile Development",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "18"
+    },
+    "ghcr.io/devcontainers/features/git:1": {},
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.vscode-markdown",
+        "yzhang.markdown-all-in-one",
+        "davidanson.vscode-markdownlint",
+        "bierner.markdown-preview-github-styles",
+        "ms-vscode.live-server",
+        "bradlc.vscode-tailwindcss",
+        "formulahendry.auto-rename-tag",
+        "ms-vscode.vscode-json"
+      ],
+      "settings": {
+        "markdown.preview.github": true,
+        "markdown.preview.breaks": true,
+        "files.autoSave": "afterDelay",
+        "editor.wordWrap": "on",
+        "editor.minimap.enabled": false,
+        "workbench.colorTheme": "GitHub Dark Default"
+      }
+    }
+  },
+  "postCreateCommand": "npm install -g live-server",
+  "remoteUser": "codespace"
+}
