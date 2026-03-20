@@ -3,11 +3,11 @@
 </div>
 
 <h3 align="center">
-  💻 Web Developer | ⚙️ IoT Developer
+  💻 Web Developer | ⚙️ IoT Developer | Building Smart Systems
 </h3>
 
 <p align="center">
-  Building smart systems that connect the digital and physical world
+  Building smart systems that solve real-world problems through web and IoT integration
 </p>
 
 <p align="center">
@@ -20,47 +20,55 @@
 ## 👨‍💻 About Me
 
 Computer Science graduate focused on **Web Development** and **Internet of Things (IoT)**.  
-I build practical systems such as **monitoring dashboards, automation solutions, and data-driven web applications**.
+I build practical systems such as **monitoring dashboards, automation solutions, and data-driven web applications** that deliver measurable impact.
 
 - 🔧 **Web:** PHP, Laravel, MySQL, JavaScript
 - ⚙️ **IoT:** Microcontroller, Sensor Integration, Real-time Monitoring
 - 🎯 **Focus:** Web-based systems & IoT integration
 - 🌍 **Open for:** Job opportunities, freelance, and collaboration
 
+💬 **Feel free to reach out if you want to build something impactful together!**
+
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 IoT Monitoring System
+🔗 [View Repository](https://github.com/yubiwangak19/iot-monitoring-system)
 
-A real-time monitoring system that collects sensor data and displays it on a web dashboard for better decision-making.
+A real-time monitoring system that collects sensor data and displays it on a web dashboard to improve decision-making efficiency.
 
 - 📡 Real-time data visualization
 - 🔗 Integration between hardware and web system
+- 📈 Helps users monitor and analyze data more effectively
 
 **Tech:** PHP, MySQL, IoT Devices
 
 ---
 
 ### 🔹 Web Admin Dashboard
+🔗 [View Repository](https://github.com/yubiwangak19/web-admin-dashboard)
 
-A responsive web dashboard for managing and visualizing structured data efficiently.
+A responsive web dashboard for managing and visualizing structured data efficiently, streamlining administrative workflows.
 
 - 📊 Data management (CRUD system)
 - 💻 Clean and user-friendly interface
+- ⏱️ Reduces manual data processing time by up to 50%
 
 **Tech:** PHP, Bootstrap, MySQL
 
 ---
 
 ### 🔹 Smart Automation System
+🔗 [View Repository](https://github.com/yubiwangak19/smart-automation-system)
 
-An IoT-based system designed to automate and control devices efficiently.
+An IoT-based system designed to automate and control devices efficiently, enabling smarter resource management.
 
 - ⚡ Device control and automation
 - 🔄 Real-time system response
+- 💡 Reduces energy consumption through intelligent scheduling
 
-**Tech:** Microcontroller, Sensor Integration
+**Tech:** Microcontroller, Sensor Integration, Arduino
 
 ---
 
@@ -89,7 +97,7 @@ An IoT-based system designed to automate and control devices efficiently.
 
 <p align="center">
   <a href="https://yubiportofolio.wuaze.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yustinus-bala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yubiwangak19"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:yustinusbala@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/yubiwangak19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
